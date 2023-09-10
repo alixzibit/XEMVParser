@@ -1,0 +1,56 @@
+[
+  {
+    "ElementName": "DF11-Cumulative Total Transaction Amount x (CTTA x)",
+    "Tag": "DF11",
+    "Value": "000000000000",
+    "Category": "DF11-Cumulative Total Transaction Amount x (CTTA x) (3F58)"
+  },
+  {
+    "ElementName": "DF01-Application Capabilities",
+    "Tag": "DF01",
+    "Value": "0000",
+    "Category": "DF01-Application Capabilities (3F5B)"
+  },
+  {
+    "ElementName": "4F-Application ID (ICC)",
+    "Tag": "4F",
+    "Value": "A0000000031010",
+    "Category": "4F-Application ID (ICC) (0101)"
+  },
+  {
+    "ElementName": "50-Application Label",
+    "Tag": "50",
+    "Value": "5669736120437265646974",
+    "Category": "50-Application Label (0101)"
+  },
+  {
+    "ElementName": "88-Short File Identifier (SFI)",
+    "Tag": "88",
+    "Value": "01",
+    "Category": "88-Short File Identifier (SFI) (9102)"
+  },
+  {
+    "ElementName": "5F2D-Language Preference",
+    "Tag": "5F2D",
+    "Value": "656E6172",
+    "Category": "5F2D-Language Preference (9102)"
+  },
+  {
+    "ElementName": "4F-Application Identifier (qVSDC)",
+    "Tag": "4F",
+    "Value": "A0000000031010",
+    "Category": "4F-Application Identifier (qVSDC) (9102)"
+  },
+  {
+    "ElementName": "50-Application Label (qVSDC)",
+    "Tag": "50",
+    "Value": "5669736120437265646974",
+    "Category": "50-Application Label (qVSDC) (9102)"
+  },
+  {
+    "ElementName": "87-Application Priority Indicator (qVSDC)",
+    "Tag": "87",
+    "Value": "01",
+    "Category": "87-Application Priority Indicator (qVSDC) (9102)"
+  }
+]
